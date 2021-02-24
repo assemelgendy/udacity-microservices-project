@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/assemelgendy/udacity-microservices-project.svg?style=svg)](https://app.circleci.com/pipelines/github/assemelgendy/udacity-microservices-project)
 
 ## Project Overview
 
